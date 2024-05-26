@@ -4,13 +4,13 @@ This repository contains my professional portfolio where I showcase my technical
 
 ## Projects
 
-#### Massitec Website App
+### Massitec Website App
 
-#### Maxon Dashboard App
+### Maxon Dashboard App
 
-#### Maxon Mobile App
+### Maxon Mobile App
 
-#### Online E-commerce Mobile App
+### Online E-commerce Mobile App
 
-#### Food Ordering Mobile App
+### Food Ordering Mobile App
 
